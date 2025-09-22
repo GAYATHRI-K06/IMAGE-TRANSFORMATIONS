@@ -1,3 +1,4 @@
+## EXP-3
 # IMAGE-TRANSFORMATIONS
 ## NAME:GAYATHRI K
 ## REG NO:212223230061
@@ -100,11 +101,12 @@ plt.show()
 ``````
 ## Output:
 ## ORIGINAL IMAGE
-<img width="623" height="470" alt="image" src="https://github.com/user-attachments/assets/6a724880-5d06-4817-993f-23f8b6357400" />
+<img width="482" height="357" alt="image" src="https://github.com/user-attachments/assets/c40da483-1c18-4a32-bc93-ef342bc6db66" />
+
 
 ### i)Image Translation
 <br>
-<img width="632" height="470" alt="image" src="https://github.com/user-attachments/assets/da2e17fc-c463-46bd-bd69-31d3c323c6f2" />
+<img width="483" height="350" alt="image" src="https://github.com/user-attachments/assets/234e8ecb-3954-49d0-b8a9-d0e410ba8ee4" />
 
 <br>
 <br>
@@ -112,7 +114,8 @@ plt.show()
 
 ### ii) Image Scaling
 <br>
-<img width="651" height="221" alt="image" src="https://github.com/user-attachments/assets/686cda70-af70-491a-ae2c-7c6a0598fce2" />
+<img width="492" height="157" alt="image" src="https://github.com/user-attachments/assets/503ccbdb-4aff-4417-9e44-3d82b135d77f" />
+
 
 
 <br>
@@ -122,7 +125,7 @@ plt.show()
 
 ### iii)Image shearing
 <br>
-<img width="645" height="478" alt="image" src="https://github.com/user-attachments/assets/9cf3223b-ae78-4eb7-819f-1d20ef19d4fc" />
+<img width="478" height="341" alt="image" src="https://github.com/user-attachments/assets/6eec08be-27e7-45f2-bdf5-c0607f4da249" />
 
 
 <br>
@@ -132,7 +135,8 @@ plt.show()
 
 ### iv)Image Reflection
 <br>
-<img width="646" height="476" alt="image" src="https://github.com/user-attachments/assets/a090de24-f63c-44e7-8e50-2a7544bde4ec" />
+<img width="479" height="342" alt="image" src="https://github.com/user-attachments/assets/7046cc01-f8ce-4216-b3a7-3474f5e24f1f" />
+
 
 <br>
 <br>
@@ -142,7 +146,8 @@ plt.show()
 
 ### v)Image Rotation
 <br>
-<img width="650" height="471" alt="image" src="https://github.com/user-attachments/assets/25d7e0a6-178e-4fc9-9cce-4f15ea1b43c6" />
+<img width="479" height="342" alt="image" src="https://github.com/user-attachments/assets/46d89398-969e-4acc-8b92-eef084cb348a" />
+
 
 <br>
 <br>
@@ -152,7 +157,8 @@ plt.show()
 
 ### vi)Image Cropping
 <br>
-<img width="735" height="511" alt="image" src="https://github.com/user-attachments/assets/4d8efd72-87a3-48c7-b6cd-c9e5fa9ba1fe" />
+<img width="478" height="383" alt="image" src="https://github.com/user-attachments/assets/a4d2de96-52c0-4ddf-bae7-b4d216467c93" />
+
 
 <br>
 <br>
